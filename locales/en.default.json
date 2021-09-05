@@ -97,10 +97,10 @@
       "best_selling": "Best Selling",
       "az": "Alphabetically, A-Z",
       "za": "Alphabetically, Z-A",
-      "price_ascending": "Price, low to high",
-      "price_descending": "Price, high to low",
-      "date_descending": "Date, new to old",
-      "date_ascending": "Date, old to new"
+      "price_ascending": "Price, Low to High",
+      "price_descending": "Price, High to Low",
+      "date_descending": "Date, New to Old",
+      "date_ascending": "Date, Old to New"
     },
      "onboarding": {
       "modal_title": "This page will show all of your store's products",
@@ -115,7 +115,7 @@
       "phone": "Phone Number",
       "message": "Message",
       "send": "Send",
-      "post_success": "Thanks for contacting us. We'll get back to you as soon as possible."
+      "post_success": "Thank you for contacting us. We'll get back to you as soon as possible."
     }
   },
   "customer": {
